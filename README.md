@@ -21,7 +21,7 @@ A compact, interactive robot car controlled over WiFi using voice commands or a 
 ![Robot Image](Robot_image.jpeg)
 
 ### Circuit Diagram
-![Circuit Diagram](CIRCUIT%20DIAGRAM%20PROJECT.png)
+![Circuit Diagram](CIRCUIT%20DIGRAM%20PROJECT.png)
 
 ---
 
